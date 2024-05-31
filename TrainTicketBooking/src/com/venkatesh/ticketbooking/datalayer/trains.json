@@ -1,0 +1,1 @@
+[{"fare":140,"depTime":"9:00","trainName":"Andhyodhaya","trainNumber":123,"stops":["Madurai","Tirunelveli"],"arrTime":"20:00","totalSeats":10},{"fare":130,"depTime":"9:00","trainName":"Sendhoor exp","trainNumber":234,"stops":["Tirunelveli","Tuticorin"],"arrTime":"14:00","totalSeats":20}]
